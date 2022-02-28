@@ -1,0 +1,4 @@
+name: ProtocolVersionSupport
+version: '${project.version}'
+main: cc.americium.Z_
+api-version: 1.13
